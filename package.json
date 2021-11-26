@@ -1,5 +1,5 @@
 {
-  "name": "react-sketchapp",
+  "name": "react-sketchapp-private",
   "version": "3.2.6",
   "description": "A React renderer for Sketch.app",
   "sideEffects": false,
@@ -7,7 +7,7 @@
   "module": "lib/module/index.js",
   "types": "lib/index.d.ts",
   "license": "MIT",
-  "author": "Jon Gold <jon.gold@airbnb.com> (http://jon.gold)",
+  "author": "yanzhilong <yanzhil@yonyou.com> (http://jon.gold)",
   "contributors": [
     "Ben Wilkins <ben.wilkins@airbnb.com>",
     "Leland Richardson <leland.richardson@airbnb.com>",
